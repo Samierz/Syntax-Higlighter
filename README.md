@@ -2,6 +2,9 @@
 
 Bu proje, JavaScript kullanılarak geliştirilmiş, gerçek zamanlı çalışan bir "Syntax Highlighter" yani sözdizimi vurgulama sistemidir. Kullanıcı, tarayıcı üzerinden kod yazarken anlık olarak hem renklendirme yapılır hem de yazılan kodun sözdizimi kontrol edilerek hatalar doğrudan görüntülenir.
 
+[
+Projeyi denemek için tıklayabilirsiniz](https://samierz.github.io/Syntax-Higlighter/)
+
 # Desteklenen Yapılar (Parser)
 
 ✅ Değişken tanımlama: var, let, const
@@ -77,7 +80,7 @@ Tanımlı token türleri:
 
 [🎥 Tanıtım Videosu (YouTube)](https://ornek-site.com)
 
-[🌐 Canlı Site (Github Page)](https://samierz.github.io/Syntax-Higlighter/)
+[🌐 Canlı Site ](https://samierz.github.io/Syntax-Higlighter/)
 
 
 
