@@ -78,7 +78,7 @@ Tanımlı token türleri:
 
 [📄 Makale](https://medium.com/@samierznc/real-time-syntax-highlighter-leksikal-analiz-ve-parsing-ile-kod-renklendirme-6ea509368121)
 
-[🎥 Tanıtım Videosu (YouTube)](https://ornek-site.com)
+[🎥 Tanıtım Videosu](https://youtu.be/extn2HDl6Bk)
 
 [🌐 Canlı Site ](https://samierz.github.io/Syntax-Higlighter/)
 
